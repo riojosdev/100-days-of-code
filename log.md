@@ -18,3 +18,12 @@ Also started to read Git documentation. I really want a Version Control System s
 Spent the rest of the day planning about blogging. Got a few ideas which I would love to write about. Probably I might publish it tomorrow. Maybe... Only got points of what to write. I need to make it as a readable content. We'll see. 
 
 **Link(s) to work**: [The All Seeing Eye - Codepen.](https://codepen.io/sreadyila/pen/mdewWaG)
+
+### Day 2: April 29, 2020
+
+**Today's Progress**: Made my first DEV blog post. Learned about JavaScript functions.
+
+**Thoughts:** Created my first blog post for beginners who are going for a job. It's about the catch 22 logic or also the job experience paradox.
+Then I made time to learn a little bit about JavaScript. And I learned about functions in JavaScript.
+
+**Link(s) to work**: [No Experience No Job Paradox : The Blog](https://dev.to/sreadyila/no-experience-no-job-paradox-solved-a5)
