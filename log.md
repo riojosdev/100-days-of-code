@@ -32,7 +32,7 @@ Then I made time to learn a little bit about JavaScript. And I learned about fun
 
 **Today's Progress**: Finished Google Analytics for beginners course.
 
-**Thoughts:** Today I decided to brush up my Website Analytics skill. So took the Google Analytics fir beginners course. Finished the course and got certified. 
+**Thoughts:** Today I decided to brush up my Website Analytics skill. So took the Google Analytics for beginners course. Finished the course and got certified. 
 Now I able to track many things that would enable me to develop better websites. 
 
 **Link(s) to work**: None
