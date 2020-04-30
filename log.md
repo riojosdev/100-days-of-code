@@ -27,3 +27,12 @@ Spent the rest of the day planning about blogging. Got a few ideas which I would
 Then I made time to learn a little bit about JavaScript. And I learned about functions in JavaScript.
 
 **Link(s) to work**: [No Experience No Job Paradox : The Blog](https://dev.to/sreadyila/no-experience-no-job-paradox-solved-a5)
+
+### Day 3: April 30, 2020
+
+**Today's Progress**: Finished Google Analytics for beginners course.
+
+**Thoughts:** Today I decided to brush up my Website Analytics skill. So took the Google Analytics fir beginners course. Finished the course and got certified. 
+Now I able to track many things that would enable me to develop better websites. 
+
+**Link(s) to work**: None
