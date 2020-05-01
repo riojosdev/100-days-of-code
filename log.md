@@ -36,3 +36,12 @@ Then I made time to learn a little bit about JavaScript. And I learned about fun
 Now I able to track many things that would enable me to develop better websites. 
 
 **Link(s) to work**: None
+
+### Day 4: May 1, 2020
+
+**Today's Progress**: Learned about JavaScript DOM Objects.
+
+**Thoughts:** Today I learned about different Document Object Models of JavaScript.
+Prepared another blog article. Might publish tomorrow.
+
+**Link(s) to work**: None
