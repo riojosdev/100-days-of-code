@@ -45,3 +45,13 @@ Now I able to track many things that would enable me to develop better websites.
 Prepared another blog article. Might publish tomorrow.
 
 **Link(s) to work**: None
+
+### Day 5: May 2, 2020
+
+**Today's Progress**: Created a landing page.
+
+**Thoughts:** Made a welcome page with only HTML and CSS. Tried out neomorphism designing. Looks really cool. But I think I used too much ofthe same elements.
+Should have implemented other design trends to the page.
+Also I have prepared an article to publish on DEV. Will post it tomorrow. 
+
+**Link(s) to work**: [Welcome Landing Page](https://welcomemessage.netlify.app/)
