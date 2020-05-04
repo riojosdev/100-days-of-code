@@ -77,3 +77,16 @@ Really felt tired. So, I'm going to take some time off today. And restart freshl
 
 * [Wikiversity - Web Design](https://en.m.wikiversity.org/wiki/Web_design)
 * [Wikiversity - JavaScript Challenges](https://en.m.wikiversity.org/wiki/Web_Design/JavaScript_Challenges)
+
+### Day 7: May 4, 2020
+
+**Today's Progress**: Did the first Wikiversity JavaScript Challenge - Peekaboo Elements. Made a tutorial on it too.
+
+**Thoughts:** Started doing the challenges on Wikiversity. Completed the first challenge with ease.
+Made a guide which is really marks my method in solving these challenges. Published it on medium. Also started creating my github course.
+
+**Link(s) to work**: 
+
+* [JavaScript Guide For the first challenge on Wikiversity](https://medium.com/@sreadyila/javascript-the-practical-learning-for-code-newbies-challenge-1-peekaboo-elements-display-707cb7355e5a)
+* [JavaScript Course created by me](https://github.com/coding-buddy/js-code-buddy#js-code-buddy)
+
