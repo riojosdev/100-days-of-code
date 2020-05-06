@@ -100,3 +100,11 @@ Also created a Pure CSS Animation of a Wink.
 
 **Link(s) to work**: [Smile & Wink - Codepen](https://codepen.io/sreadyila/pen/QWjaJwX)
 
+### Day 9: May 6, 2020
+
+**Today's Progress**: Completed JavaScript Debugging Course on Freecodecamp.
+
+**Thoughts:** Didn't do too much coding today. But still I managed to make time to learn a few things.
+Decided I should learn something from freecodecamp. So took the JavaScript Debugging course. Had only like 12 challenges. Completed those. Atleast I didn't waste the day. I will definitely be much more productive tomorrow. 
+
+**Link(s) to work**: None
