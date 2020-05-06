@@ -90,3 +90,13 @@ Made a guide which is really marks my method in solving these challenges. Publis
 * [JavaScript Guide For the first challenge on Wikiversity](https://medium.com/@sreadyila/javascript-the-practical-learning-for-code-newbies-challenge-1-peekaboo-elements-display-707cb7355e5a)
 * [JavaScript Course created by me](https://github.com/coding-buddy/js-code-buddy#js-code-buddy)
 
+### Day 8: May 5, 2020
+
+**Today's Progress**: Completed Wikiversity Javascript Challenges.
+
+**Thoughts:** Wikiversity Javascript Challenges! There are 10 of them. I did till challenge 8.
+Then next two of them I had to give my credit card information. And the last one was outdated. Tried my debit card bur the API accepts only visa and MasterCard.
+Also created a Pure CSS Animation of a Wink.
+
+**Link(s) to work**: [Smile & Wink - Codepen](https://codepen.io/sreadyila/pen/QWjaJwX)
+
