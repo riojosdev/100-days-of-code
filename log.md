@@ -114,6 +114,7 @@ Decided I should learn something from freecodecamp. So took the JavaScript Debug
 **Today's Progress**: Created a pure Javascript generated animation.
 
 **Thoughts:** Today I tried to create a simple JavaScript animation that is customizable. It works as an app. Simple yet cool!
+Also I used neomorphism design concept to create the front page to customise the animation. Yes it's customizable!
 
 **Link(s) to work**: 
 * [Get Nuked - Codepen](https://codepen.io/sreadyila/pen/LYpdPaZ)
