@@ -108,3 +108,13 @@ Also created a Pure CSS Animation of a Wink.
 Decided I should learn something from freecodecamp. So took the JavaScript Debugging course. Had only like 12 challenges. Completed those. Atleast I didn't waste the day. I will definitely be much more productive tomorrow. 
 
 **Link(s) to work**: None
+
+### Day 9: May 6, 2020
+
+**Today's Progress**: Created a pure Javascript generated animation.
+
+**Thoughts:** Today I tried to create a simple JavaScript animation that is customizable. It works as an app. Simple yet cool!
+
+**Link(s) to work**: 
+* [Get Nuked - Codepen](https://codepen.io/sreadyila/pen/LYpdPaZ)
+* [Going to Nuke - The Website](https://going2nuke.now.sh)
