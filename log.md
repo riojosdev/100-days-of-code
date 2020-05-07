@@ -109,7 +109,7 @@ Decided I should learn something from freecodecamp. So took the JavaScript Debug
 
 **Link(s) to work**: None
 
-### Day 9: May 6, 2020
+### Day 10: May 6, 2020
 
 **Today's Progress**: Created a pure Javascript generated animation.
 
