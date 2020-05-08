@@ -109,7 +109,7 @@ Decided I should learn something from freecodecamp. So took the JavaScript Debug
 
 **Link(s) to work**: None
 
-### Day 10: May 6, 2020
+### Day 10: May 7, 2020
 
 **Today's Progress**: Created a pure Javascript generated animation.
 
@@ -119,3 +119,11 @@ Also I used neomorphism design concept to create the front page to customise the
 **Link(s) to work**: 
 * [Get Nuked - Codepen](https://codepen.io/sreadyila/pen/LYpdPaZ)
 * [Going to Nuke - The Website](https://going2nuke.now.sh)
+
+### Day 11: May 8, 2020
+
+**Today's Progress**: Started learning about ECMAScript 6. 
+
+**Thoughts:** Today wasn't that productive. Slacked of most of my time today. But I managed to spend some time on learning a few things on Freecodecamp. So, I started learning ECMAScript. Tomorrow, I shall go through The Odin Project. They have some nice resources. I need to skill up my JS skills.
+
+**Link(s) to work**: None
