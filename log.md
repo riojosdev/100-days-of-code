@@ -127,3 +127,12 @@ Also I used neomorphism design concept to create the front page to customise the
 **Thoughts:** Today wasn't that productive. Slacked of most of my time today. But I managed to spend some time on learning a few things on Freecodecamp. So, I started learning ECMAScript. Tomorrow, I shall go through The Odin Project. They have some nice resources. I need to skill up my JS skills.
 
 **Link(s) to work**: None
+
+### Day 12: May 10, 2020
+
+**Today's Progress**: Started learning D3.js, also learned about IntersectionObserver of Javascript.
+
+**Thoughts:** Today I learned about IntersectionObserver using JavaScript. I was to help out a question on stackoverflow. I realized I didn't have enough knowledge. So tired to learn with tutorials.
+Also I learning D3. I'm gonna work hard in mastering D3. I have a few ideas I would to work on. D3 is definitely the way.
+
+**Link(s) to work**: None
