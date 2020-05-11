@@ -136,3 +136,12 @@ Also I used neomorphism design concept to create the front page to customise the
 Also I learning D3. I'm gonna work hard in mastering D3. I have a few ideas I would to work on. D3 is definitely the way.
 
 **Link(s) to work**: None
+
+### Day 13: May 11, 2020
+
+**Today's Progress**: Learning D3
+
+**Thoughts:** Switched learning D3 from freecodecamp to tutorialspoint.
+I aajkal do the exercises later on freecodecamp.
+
+**Link(s) to work**: None
