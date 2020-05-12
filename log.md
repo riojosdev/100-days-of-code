@@ -142,6 +142,17 @@ Also I learning D3. I'm gonna work hard in mastering D3. I have a few ideas I wo
 **Today's Progress**: Learning D3
 
 **Thoughts:** Switched learning D3 from freecodecamp to tutorialspoint.
-I aajkal do the exercises later on freecodecamp.
+I will do the exercises later on freecodecamp.
+
+**Link(s) to work**: None
+
+### Day 14: May 12, 2020
+
+**Today's Progress**: Learning D3
+
+**Thoughts:** Stil Learning D3. Started Making charts. Feels like I need a way to gather data.
+I might need to learn a little bit about APIs. Also React is the next step, I am going to work on.
+Also 3.js would be worth a try. But it's hard to learn quickly. I need to master each one step at a time.
+
 
 **Link(s) to work**: None
