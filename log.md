@@ -154,5 +154,14 @@ I will do the exercises later on freecodecamp.
 I might need to learn a little bit about APIs. Also React is the next step, I am going to work on.
 Also 3.js would be worth a try. But it's hard to learn quickly. I need to master each one step at a time.
 
+**Link(s) to work**: None
+
+### Day 15: May 13, 2020
+
+**Today's Progress**: Learning D3
+
+**Thoughts:** Tried a few bar chart, circle chart and pie chart.
+Tried out an example from tutorialspoint. After doing those examples freecodecamp exercises were much easier.
+I can now complete freecodecamp smoothly.
 
 **Link(s) to work**: None
