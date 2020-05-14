@@ -165,3 +165,11 @@ Tried out an example from tutorialspoint. After doing those examples freecodecam
 I can now complete freecodecamp smoothly.
 
 **Link(s) to work**: None
+
+### Day 16: May 14, 2020
+
+**Today's Progress**: Learning D3
+
+**Thoughts:** Did some exercises on freecodecamp.
+
+**Link(s) to work**: None
