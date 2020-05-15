@@ -173,3 +173,14 @@ I can now complete freecodecamp smoothly.
 **Thoughts:** Did some exercises on freecodecamp.
 
 **Link(s) to work**: None
+
+### Day 17: May 15, 2020
+
+**Today's Progress**: Completed D3 challenges on freecodecamp
+
+**Thoughts:** Today I have finished all the challenges in freecodecamp. 
+I hated the time I took to complete it. But now I think it wasn't about the time I spent but the journey I had.
+Time was the first thing I was stressing about. But handling the time was just a little bit. Now I'm able to achieve and grow a lot more than I could think of.
+My D3 journey is not over, still have a lot to achieve, now I learned the basics to start doing my own projects from the fundamentals I learned.
+
+**Link(s) to work**: None
