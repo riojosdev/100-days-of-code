@@ -184,3 +184,12 @@ Time was the first thing I was stressing about. But handling the time was just a
 My D3 journey is not over, still have a lot to achieve, now I learned the basics to start doing my own projects from the fundamentals I learned.
 
 **Link(s) to work**: None
+
+### Day 18: May 17, 2020
+
+**Today's Progress**: Started learning JSON
+
+**Thoughts:** Since I finished the D3 challenges on freecodecamp.
+I now need to learn to collect datasets. So started learning JSON.
+
+**Link(s) to work**: None
