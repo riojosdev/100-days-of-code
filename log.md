@@ -193,3 +193,12 @@ My D3 journey is not over, still have a lot to achieve, now I learned the basics
 I now need to learn to collect datasets. So started learning JSON.
 
 **Link(s) to work**: None
+
+### Day 19: May 18, 2020
+
+**Today's Progress**: Tried to make a JS game
+
+**Thoughts:** So I started making a game. It is really hard to come up with one of your idea. It was easier to be analytical.
+But the game creation made me realize the creativity is much harder. I had to think a lot and I got an idea to try out. And I have started making one. I had some troubles but I fixed it with some help from Stackoverflow. Now I need to add more functionalities. Also I need to add animations. Levels, Power ups. All I want is the user too destroy their mouse button by trying to win.
+
+**Link(s) to work**: None
