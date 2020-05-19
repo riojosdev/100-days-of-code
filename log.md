@@ -202,3 +202,13 @@ I now need to learn to collect datasets. So started learning JSON.
 But the game creation made me realize the creativity is much harder. I had to think a lot and I got an idea to try out. And I have started making one. I had some troubles but I fixed it with some help from Stackoverflow. Now I need to add more functionalities. Also I need to add animations. Levels, Power ups. All I want is the user too destroy their mouse button by trying to win.
 
 **Link(s) to work**: None
+
+### Day 20: May 19, 2020
+
+**Today's Progress**: Making a JS game
+
+**Thoughts:** Today I been improving the game which I started yesterday. 
+Added some Hoover effects and finished basic gameplay.
+Now I need more power ups, levels and achievements. Also I need to save the progress.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
