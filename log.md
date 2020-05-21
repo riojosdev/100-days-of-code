@@ -212,3 +212,13 @@ Added some Hoover effects and finished basic gameplay.
 Now I need more power ups, levels and achievements. Also I need to save the progress.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 21: May 20, 2020
+
+**Today's Progress**: Made a JS Game savable with Cookies
+
+**Thoughts:** Wanted to add a progress saving ability to the game. Figured using cookies was the best option right now.
+I spent a little too much time in making it work. I'm not sure if what I tried first was wrong. 
+But I found out cookies don't work locally on Chrome Browser. But Firefox and internet explorer supports local cookies.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
