@@ -222,3 +222,13 @@ I spent a little too much time in making it work. I'm not sure if what I tried f
 But I found out cookies don't work locally on Chrome Browser. But Firefox and internet explorer supports local cookies.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 22: May 21, 2020
+
+**Today's Progress**: Learned how to make a time-stamp
+
+**Thoughts:** Not much coding today. I made a time-stamp function to store the time when user first enters.
+I was too excited after adding a time-stamp. So I took the rest of the day off. 
+And I found another topic to blog about. I have to keep blogging.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
