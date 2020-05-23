@@ -232,3 +232,14 @@ I was too excited after adding a time-stamp. So I took the rest of the day off.
 And I found another topic to blog about. I have to keep blogging.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 23: May 23, 2020
+
+**Today's Progress**: Working out with timing functions
+
+**Thoughts:** So, I'm still working on the game. And today I tried to apply some interactivity with time.
+Also I published an article on why I love to code.
+
+**Link(s) to work**: 
+* [Disliker The Game](https://withdislike.now.sh/)
+* [Reasons to Code - The Blog](https://dev.to/sreadyila/reasons-to-code-1np3)
