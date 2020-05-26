@@ -252,3 +252,12 @@ Also I published an article on why I love to code.
 Made a power up for the game. But I came to an error, which I had no clue on how to solve. It's to strictly mark a variable as number. 
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 25: May 26, 2020
+
+**Today's Progress**: Adding more functionalities to the game
+
+**Thoughts:** Added a power up to the game. I'm coding really slow. I'm not experimenting enough. I do very little each day.
+I need to step it up. Today I added a ability which you can buy with your earnings and it gets called at regular intervals. Learned a lot about `setIntervals()`.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
