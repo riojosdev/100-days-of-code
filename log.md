@@ -243,3 +243,12 @@ Also I published an article on why I love to code.
 **Link(s) to work**: 
 * [Disliker The Game](https://withdislike.now.sh/)
 * [Reasons to Code - The Blog](https://dev.to/sreadyila/reasons-to-code-1np3)
+
+### Day 24: May 25, 2020
+
+**Today's Progress**: Adding more functionalities to the game
+
+**Thoughts:** My internet was down. So I had to code with what I knew.
+Made a power up for the game. But I came to an error, which I had no clue on how to solve. It's to strictly mark a variable as number. 
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
