@@ -261,3 +261,11 @@ Made a power up for the game. But I came to an error, which I had no clue on how
 I need to step it up. Today I added a ability which you can buy with your earnings and it gets called at regular intervals. Learned a lot about `setIntervals()`.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 26: May 27, 2020
+
+**Today's Progress**: Finished the ugly part of the game
+
+**Thoughts:** The game is now playable. I have added basic parts. It's still in the development stage. But I have completed the major part of the game Minimalistic style.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
