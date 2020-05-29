@@ -269,3 +269,13 @@ I need to step it up. Today I added a ability which you can buy with your earnin
 **Thoughts:** The game is now playable. I have added basic parts. It's still in the development stage. But I have completed the major part of the game Minimalistic style.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 27: May 29, 2020
+
+**Today's Progress**: Made the game more understanding
+
+**Thoughts:** Today I edited some basic things in the game. So that an absolute newbie can understand how the game is to be played.
+I was making it for desktop. I then made it to render as desktop on mobile. But now the desktop version makes you scroll down to view the entire content. 
+I shall work on responsiveness tomorrow.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
