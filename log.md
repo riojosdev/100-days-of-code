@@ -279,3 +279,17 @@ I was making it for desktop. I then made it to render as desktop on mobile. But 
 I shall work on responsiveness tomorrow.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 28: May 31, 2020
+
+**Today's Progress**: Made the game responsive and also made a css illustration and started learning react.
+
+**Thoughts:** Today I made the game responsive. I didn't use media queries. Instead I used viewport dimensions. It now works perfectly on mobile and on desktop. 
+I made a CSS illustration of a Raised fist. The current issue on black lives matter motivated me to create it.
+Also I realized I need to add more things to the game for making people stay.
+I also realized I was having a lot of free time so I started learning React. I might also learn Angular.js when I'm away from desktop. As I have the perfect place to learn Angular.js and I can do that on my phone.
+
+
+**Link(s) to work**: 
+* [Disliker The Game](https://withdislike.now.sh/)
+* [Raised Fist CSS Illustration](https://codepen.io/sreadyila/pen/yLYmZmb)
