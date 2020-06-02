@@ -293,3 +293,12 @@ I also realized I was having a lot of free time so I started learning React. I m
 **Link(s) to work**: 
 * [Disliker The Game](https://withdislike.now.sh/)
 * [Raised Fist CSS Illustration](https://codepen.io/sreadyila/pen/yLYmZmb)
+
+### Day 29: Jun 1, 2020
+
+**Today's Progress**: Added achievement for the game
+
+**Thoughts:** I got a feedback the game was addicting but since the game was too simple they had to leave at some point.
+I added some achievements to motivate. I also thought of bunch of things to add. But I have to learn a bit more.
+
+**Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
