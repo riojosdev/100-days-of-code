@@ -302,3 +302,13 @@ I also realized I was having a lot of free time so I started learning React. I m
 I added some achievements to motivate. I also thought of bunch of things to add. But I have to learn a bit more.
 
 **Link(s) to work**: [Disliker The Game](https://withdislike.now.sh/)
+
+### Day 30: Jun 2, 2020
+
+**Today's Progress**: Started Learning Node.js
+
+**Thoughts:** I know I started learning React. But I found out It would much more beneficial to learn node.
+I have some project ideas that I need to work on. And Node.js is an important part of it. I hope I can do it quickly.
+But I should also remember that it isn't the time I'm spending but the journey I'm having.
+
+**Link(s) to work**: None
