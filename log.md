@@ -312,3 +312,20 @@ I have some project ideas that I need to work on. And Node.js is an important pa
 But I should also remember that it isn't the time I'm spending but the journey I'm having.
 
 **Link(s) to work**: None
+
+### Day 31: Jun 4, 2020
+
+**Today's Progress**: Played with CSS, learned about color theory
+
+**Thoughts:** Today I was making a CSS drawing. When I started coloring, I stumbled across a road block. It was to find the color between two colors. I hd a really hard time in find the perfect color. Researched about different color pickers. I felt I need to create another one myself to find the appropriate colors.
+
+**Link(s) to work**: None
+
+### Day 32: Jun 5, 2020
+
+**Today's Progress**: Learning Node.js
+
+**Thoughts:** Today I tried making another CSS drawing but, I couldn't get it responsive. As I used only percentages for all the child elements. Every time I resized the window. The elements change position making the shape meaningless. I need more knowledge on CSS still. I guess I am still not a pro.
+Later today I went back in learning Node.js
+
+**Link(s) to work**: None
