@@ -337,3 +337,13 @@ Later today I went back in learning Node.js
 **Thoughts:** I stumbled upon this cool website. A social coding site, almost like Github. But more dorky. I have been exploring the whole site. 
 
 **Link(s) to work**: None
+
+### Day 34: Jun 8, 2020
+
+**Today's Progress**: Made a portfolio on Glitch & wrote an article for future glitch community
+
+**Thoughts:** Ever since I saw the Glitch website. I wanted to join. So today I quickly made a simple portfolio to introduce myself on the Glitch community. I have also wrote an article describing why I made the portfolio. Just to track what I want to achieve.
+
+**Link(s) to work**: 
+* [The Portfolio on Glitch](https://rio-high-fives.glitch.me)
+* [Blog about my Glitch Portfolio](https://dev.to/sreadyila/hello-glitch-com-4ohm)
