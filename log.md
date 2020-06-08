@@ -329,3 +329,11 @@ But I should also remember that it isn't the time I'm spending but the journey I
 Later today I went back in learning Node.js
 
 **Link(s) to work**: None
+
+### Day 33: Jun 7, 2020
+
+**Today's Progress**: Found the Glitch Community
+
+**Thoughts:** I stumbled upon this cool website. A social coding site, almost like Github. But more dorky. I have been exploring the whole site. 
+
+**Link(s) to work**: None
