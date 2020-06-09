@@ -347,3 +347,12 @@ Later today I went back in learning Node.js
 **Link(s) to work**: 
 * [The Portfolio on Glitch](https://rio-high-fives.glitch.me)
 * [Blog about my Glitch Portfolio](https://dev.to/sreadyila/hello-glitch-com-4ohm)
+
+### Day 35: Jun 9, 2020
+
+**Today's Progress**: Started learning about Bot making using Node.js
+
+**Thoughts:** Since Node.js was kinda easy to pick up on. I am starting to experiment with Bots.
+I figured Discord would be the best place to start.
+
+**Link(s) to work**: None
