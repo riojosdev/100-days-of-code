@@ -356,3 +356,14 @@ Later today I went back in learning Node.js
 I figured Discord would be the best place to start.
 
 **Link(s) to work**: None
+
+### Day 36: Jun 10, 2020
+
+**Today's Progress**: Learned about how to send and reply messages on discord using a Node.js Bot
+
+**Thoughts:** So the moment I switched my bots status to online was a precious moment. And it was where it all started.
+I mean this is the future. The best place for **hobbyist!**
+**I have also learned a sad truth that if/else statements is a headache to work on!** It said that it becomes complicated. 
+So a workaround was done. It was another beautiful peice of code.
+
+**Link(s) to work**: None
