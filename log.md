@@ -367,3 +367,12 @@ I mean this is the future. The best place for **hobbyist!**
 So a workaround was done. It was another beautiful peice of code.
 
 **Link(s) to work**: None
+
+### Day 37: Jun 12, 2020
+
+**Today's Progress**: Learned about creating dynamic commands for Discord using Node.js
+
+**Thoughts:** Okay this was the best part of the code. I really loved how the code was structured to make it easy for building commands. It was like a small framework. But not a framework per se. I mean this is my first time on really deep into an API. So I guess, it felt like I was working on a framework. 
+Dynamic Commands made it easier to code and edit even in the future. I was getting little bit stressed because of the complicated way the statements were written. Dynamic Commands is a life-saver :P
+
+**Link(s) to work**: None
