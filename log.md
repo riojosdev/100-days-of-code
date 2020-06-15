@@ -376,3 +376,11 @@ So a workaround was done. It was another beautiful peice of code.
 Dynamic Commands made it easier to code and edit even in the future. I was getting little bit stressed because of the complicated way the statements were written. Dynamic Commands is a life-saver :P
 
 **Link(s) to work**: None
+
+### Day 38: Jun 14, 2020
+
+**Today's Progress**: Made a CSS illustration on BlackLivesMatter
+
+**Thoughts:** Didn't do much coding for the past few days. My motivation and inspiration have been fighting a lot. I hope the BLM movement finds peace!
+
+**Link(s) to work**: [CSS illustration of a BLM dialog box](https://codepen.io/sreadyila/pen/RwrROqy)
