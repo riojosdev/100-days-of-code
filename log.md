@@ -384,3 +384,12 @@ Dynamic Commands made it easier to code and edit even in the future. I was getti
 **Thoughts:** Didn't do much coding for the past few days. My motivation and inspiration have been fighting a lot. I hope the BLM movement finds peace!
 
 **Link(s) to work**: [CSS illustration of a BLM dialog box](https://codepen.io/sreadyila/pen/RwrROqy)
+
+### Day 39: Jun 16, 2020
+
+**Today's Progress**: Started learning about PWA 
+
+**Thoughts:** So I have been playing with discord bot for some time now. 
+I have a few project ideas that I want to work on. But I figured learning a bit about PWA would help me a lot in the long run
+
+**Link(s) to work**: None
