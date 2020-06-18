@@ -393,3 +393,11 @@ Dynamic Commands made it easier to code and edit even in the future. I was getti
 I have a few project ideas that I want to work on. But I figured learning a bit about PWA would help me a lot in the long run
 
 **Link(s) to work**: None
+
+### Day 40: Jun 17, 2020
+
+**Today's Progress**: Made my first PWA app 
+
+**Thoughts:** So today I made my first PWA app. Learned about audits on developer console. A cool and important tool for most developers. 
+
+**Link(s) to work**: [My first PWA app on Glitch](https://glitch.com/~my-first-pwa-codelab)
