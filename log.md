@@ -401,3 +401,13 @@ I have a few project ideas that I want to work on. But I figured learning a bit 
 **Thoughts:** So today I made my first PWA app. Learned about audits on developer console. A cool and important tool for most developers. 
 
 **Link(s) to work**: [My first PWA app on Glitch](https://glitch.com/~my-first-pwa-codelab)
+
+### Day 41: Jun 19, 2020
+
+**Today's Progress**: Learning through "The Coding Train" Channel on YouTube 
+
+**Thoughts:** So today I learned about fetch APIs in JavaScript. Learned it via "The Coding Train" Channel on YouTube. Awesome tutorials! I started watching "Working with APIs and Data in JavaScript" Playlist by the same channel. I started with this because, I wanted to learn more about APIs. 
+
+**Link(s) to work**: None
+
+**Resource(s)**: ["Working with APIs and Data in JavaScript" Playlist by The Coding Train on YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
