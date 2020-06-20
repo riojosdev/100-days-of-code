@@ -411,3 +411,13 @@ I have a few project ideas that I want to work on. But I figured learning a bit 
 **Link(s) to work**: None
 
 **Resource(s)**: ["Working with APIs and Data in JavaScript" Playlist by The Coding Train on YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
+
+### Day 42: Jun 20, 2020
+
+**Today's Progress**: Learning "Working with APIs and Data in JavaScript" Playlist by "The Coding Train" Channel on YouTube 
+
+**Thoughts:** Finished module 2 of the playlist. Now comes the main part of integrating the server side and client side code.
+
+**Link(s) to work**: None
+
+**Resource(s)**: ["Working with APIs and Data in JavaScript" Playlist by The Coding Train on YouTube](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X)
