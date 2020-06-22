@@ -429,3 +429,13 @@ I have a few project ideas that I want to work on. But I figured learning a bit 
 **Thoughts:** I think I learned a lot about API calls and JSON. NASA's Weather API was my first experiment. Tried to graph the wind! I got the data from API and got the JSON. But when I tried to convert it to a graph data. I found that some of the data are missing! It's omitted from the API. And without the data it can work. But I feel like I'm using broken pot to fill water, lol. I even **reported the bug to NASA**, LOL XD! I would like to contribute! But I guess I'm really a FrontEnd Developer. One day software engineers!!! ONE DAY!
 
 **Link(s) to work**: None
+
+### Day 44: Jun 22, 2020
+
+**Today's Progress**: Tried out ObservableHQ 
+
+**Thoughts:** I have visited ObservableHQ before while I was learning D3.js 
+Now I visited it again when I was trying to create a graph for the NASA's InSight Mars Lander data. It is really a learning curve. 
+A bit different than normal JavaScript.
+
+**Link(s) to work**: None
