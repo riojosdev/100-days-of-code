@@ -439,3 +439,11 @@ Now I visited it again when I was trying to create a graph for the NASA's InSigh
 A bit different than normal JavaScript.
 
 **Link(s) to work**: None
+
+### Day 45: Jun 23, 2020
+
+**Today's Progress**: Attending OpenJSWorld Conference
+
+**Thoughts:** So this is my first time attending a conference. And this one was online and free, because of the pandemic. I came to grab a lot of info. And I did. I actually bettered my workflow. My main tool would be glitch(I'm confirming it for the last time). Also I would probably jump to Data Science. Got my Linkedin connections perfected.
+
+**Link(s) to work**: None
