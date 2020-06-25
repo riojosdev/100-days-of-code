@@ -447,3 +447,11 @@ A bit different than normal JavaScript.
 **Thoughts:** So this is my first time attending a conference. And this one was online and free, because of the pandemic. I came to grab a lot of info. And I did. I actually bettered my workflow. My main tool would be glitch(I'm confirming it for the last time). Also I would probably jump to Data Science. Got my Linkedin connections perfected.
 
 **Link(s) to work**: None
+
+### Day 46: Jun 24, 2020
+
+**Today's Progress**: Attending OpenJSWorld Conference
+
+**Thoughts:** Day 2 of the OpenJS Foundation Conference. A lot of useful and valuable information was passed. 
+
+**Link(s) to work**: [A Twitter List of those who were part of The OpenJS Foundation Conference](https://twitter.com/i/lists/1275550644888195072?s=20)
