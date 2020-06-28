@@ -455,3 +455,11 @@ A bit different than normal JavaScript.
 **Thoughts:** Day 2 of the OpenJS Foundation Conference. A lot of useful and valuable information was passed. 
 
 **Link(s) to work**: [A Twitter List of those who were part of The OpenJS Foundation Conference](https://twitter.com/i/lists/1275550644888195072?s=20)
+
+### Day 47: Jun 29, 2020
+
+**Today's Progress**: Learning to use the facebook platform for instant games, chat bots, etc
+
+**Thoughts:** Started the day by trying to get into make my disliker game to run as an instant game on messenger. Then went on learning messenger platform webhooks. Figured express framework was used, so I went through the basics. Started testing the guide. Learned about curl command. It is a cool command. Then learned about the heroku platform. Learned about deploying apps on to it. Tommorrow, I'm going to try testing with facebook's api key.
+
+**Link(s) to work**: None
