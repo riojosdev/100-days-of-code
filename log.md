@@ -463,3 +463,11 @@ A bit different than normal JavaScript.
 **Thoughts:** Started the day by trying to get into make my disliker game to run as an instant game on messenger. Then went on learning messenger platform webhooks. Figured express framework was used, so I went through the basics. Started testing the guide. Learned about curl command. It is a cool command. Then learned about the heroku platform. Learned about deploying apps on to it. Tommorrow, I'm going to try testing with facebook's api key.
 
 **Link(s) to work**: None
+
+### Day 48: Jun 30, 2020
+
+**Today's Progress**: Learned to create a facebook messenger bot
+
+**Thoughts:** So, I think now I'm able to create bots on the messenger platform. There are a lot of template to send messages. Gotta catch them all! :P
+
+**Link(s) to work**: None
