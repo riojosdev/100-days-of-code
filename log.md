@@ -471,3 +471,11 @@ A bit different than normal JavaScript.
 **Thoughts:** So, I think now I'm able to create bots on the messenger platform. There are a lot of template to send messages. Gotta catch them all! :P
 
 **Link(s) to work**: None
+
+### Day 49: Jul 2, 2020
+
+**Today's Progress**: Learning the Facebook's Instant Games platform
+
+**Thoughts:** As I'm trying to port my already built game to Facebook, it's a bit hard! Previously using cookies to save and store data. Now I have to change that. Also I haven't used any image assets just a CSS illustration. So the loading screen should just jump to 100% when clicked instantly. But it's a bit hard just because I haven't seen the code of a working game as an example. I will try searching one. Or I might try to experiment DIY style!
+
+**Link(s) to work**: None
