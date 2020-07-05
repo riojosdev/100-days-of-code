@@ -487,3 +487,11 @@ A bit different than normal JavaScript.
 **Thoughts:** So, I have been learning the platform by copying and remixing one line of code at a time. It's actually going well, since I've decided to rebuild my minimalistic game on the Instant Games platform. The main thing I am a bit concerned was the config.json file. But it was easy. 
 
 **Link(s) to work**: None
+
+### Day 51: Jul 4, 2020
+
+**Today's Progress**: Learning the Facebook's Instant Games platform - DIY style
+
+**Thoughts:** I have ported all the code to work on Facebook Instant Games Platform. But now I'm struggling to debug all the bugs that showed up after removing all the cookies support. The main thing I'm having trouble with is the placement of diffrent functions of code in the facebook's games platform.
+
+**Link(s) to work**: None
