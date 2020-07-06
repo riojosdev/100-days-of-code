@@ -495,3 +495,12 @@ A bit different than normal JavaScript.
 **Thoughts:** I have ported all the code to work on Facebook Instant Games Platform. But now I'm struggling to debug all the bugs that showed up after removing all the cookies support. The main thing I'm having trouble with is the placement of diffrent functions of code in the facebook's games platform.
 
 **Link(s) to work**: None
+
+### Day 52: Jul 5, 2020
+
+**Today's Progress**: Completed porting my game on facebook! Now for facebook's cool features!
+
+**Thoughts:** Making the setInterval function was the hardest part in porting the game. It needs to invoked at a specific time, moreover the variable needs to be declared so it's given a pointer. Since I want to use the clearInterval to delete the interval data in the pointer. But after debugging I have solved it to work perfectly without any errors. I think it's perfect. 
+Now I have to build a game bot, sharing thing, leaderboard, multiplare ability. I think a one minute match making can ve added. It would be COOL!
+
+**Link(s) to work**: None
