@@ -501,6 +501,14 @@ A bit different than normal JavaScript.
 **Today's Progress**: Completed porting my game on facebook! Now for facebook's cool features!
 
 **Thoughts:** Making the setInterval function was the hardest part in porting the game. It needs to invoked at a specific time, moreover the variable needs to be declared so it's given a pointer. Since I want to use the clearInterval to delete the interval data in the pointer. But after debugging I have solved it to work perfectly without any errors. I think it's perfect. 
-Now I have to build a game bot, sharing thing, leaderboard, multiplare ability. I think a one minute match making can ve added. It would be COOL!
+Now I have to build a game bot, sharing thing, leaderboard, multiplayer ability. I think a one minute match making can ve added. It would be COOL!
+
+**Link(s) to work**: None
+
+### Day 53: Jul 6, 2020
+
+**Today's Progress**: Learning to build a Facebook Game Bot for my Instant Game
+
+**Thoughts:** Ever since I finished making my game work on Facebook Instant Games I came upon a new stepping stone that is to provide more engagement to my game by adding some of Facebook provided features. Game Bot is the way. And I have learned enough to make it work. But I can't decide how to interact well. I'm actually a perfectionist. And Bot building have always set me back. BOTS!!!!
 
 **Link(s) to work**: None
