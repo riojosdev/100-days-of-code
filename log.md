@@ -512,3 +512,11 @@ Now I have to build a game bot, sharing thing, leaderboard, multiplayer ability.
 **Thoughts:** Ever since I finished making my game work on Facebook Instant Games I came upon a new stepping stone that is to provide more engagement to my game by adding some of Facebook provided features. Game Bot is the way. And I have learned enough to make it work. But I can't decide how to interact well. I'm actually a perfectionist. And Bot building have always set me back. BOTS!!!!
 
 **Link(s) to work**: None
+
+### Day 54: Jul 9, 2020
+
+**Today's Progress**: Made a Game Bot for my Instant Game for Facebook
+
+**Thoughts:** So I just made a Game Bot, I only added a small change to it, but before that it was pretty confusing. But when I tried to just code with whatever I have, it actually worked. But I am not that impressed on the way my bot communicates. Still It will be better!
+
+**Link(s) to work**: None
