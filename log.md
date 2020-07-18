@@ -538,3 +538,11 @@ So, after a lot of exploration, I decide to get back into coding, so I figured t
 **Thoughts:** I have been building the illustration. But I am not constently working on without a break. But still I believe I'm taking too much breaks. I'm just impressed by what I can do. So I have been adding a little more realistic updates to my CSS ilustration. So far it's going great.
 
 **Link(s) to work**: None
+
+### Day 57: Jul 18, 2020
+
+**Today's Progress**: Finished the CSS illustration!
+
+**Thoughts:** So today I finished the CSS illustration which I have been working on. I had to add a lot of elements to make it appear a bit realistic. But overall a great way to learn a lot about CSS. I'm great at it now.
+
+**Link(s) to work**: [Pure CSS Illustration of Lip Biting on Codepen](https://codepen.io/sreadyila/pen/JjGerWZ)
