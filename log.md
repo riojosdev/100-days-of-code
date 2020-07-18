@@ -520,3 +520,21 @@ Now I have to build a game bot, sharing thing, leaderboard, multiplayer ability.
 **Thoughts:** So I just made a Game Bot, I only added a small change to it, but before that it was pretty confusing. But when I tried to just code with whatever I have, it actually worked. But I am not that impressed on the way my bot communicates. Still It will be better!
 
 **Link(s) to work**: None
+
+### Day 55: Jul 16, 2020
+
+**Today's Progress**: Started to make another CSS illustration
+
+**Thoughts:** I have been missing out of the challenge for a few days. I was actually exploring many things. And I didn't have the time to code. I have discovered Github tags, particularly the awesome-list. I have starred many repositories, I believe I have found more than 50 repositories which I am interested in very much. A lot of useful information was available. The insights I have gathered is all thanks to Github. 
+Also my game which I was making on Facebook Gaming platform as an Instant game, had to pause for a bit. Because I found out that I need a business profile for publishing my game. I need some legit documents for the verification process. I would do it. But I have to have some basic prerequistes for a business. And currently I don't have them.
+So, after a lot of exploration, I decide to get back into coding, so I figured to do a bit of CSS illustration. Simple!
+
+**Link(s) to work**: None
+
+### Day 56: Jul 17, 2020
+
+**Today's Progress**: Still building the CSS illustration
+
+**Thoughts:** I have been building the illustration. But I am not constently working on without a break. But still I believe I'm taking too much breaks. I'm just impressed by what I can do. So I have been adding a little more realistic updates to my CSS ilustration. So far it's going great.
+
+**Link(s) to work**: None
