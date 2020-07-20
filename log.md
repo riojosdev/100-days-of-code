@@ -546,3 +546,12 @@ So, after a lot of exploration, I decide to get back into coding, so I figured t
 **Thoughts:** So today I finished the CSS illustration which I have been working on. I had to add a lot of elements to make it appear a bit realistic. But overall a great way to learn a lot about CSS. I'm great at it now.
 
 **Link(s) to work**: [Pure CSS Illustration of Lip Biting on Codepen](https://codepen.io/sreadyila/pen/JjGerWZ)
+
+### Day 58: Jul 19, 2020
+
+**Today's Progress**: Started learning ObservableHQ and also trying out Open Web Analytics
+
+**Thoughts:** I have always wanted to try out ObservableHQ notebook. It is an incredible platform to do interactive Data Visulaization. I could feel the potential. But there is bit of learning curve to it. It is JavaScript but not the way We learned to do javascript. I have found their official tutorials and started learning that.
+Later I felt I needed to update some of my strategies. And I came upon Open Web Analytics framework a great alternative to Google Analytics. So I figured to do that too on the side. But it kinda requires a server side dashboard, so now I think I have to build a dashboard on Heroku with a touch of PHP and MySQL. Now I'm getting back on PHP after a long time. I feel kinda unmotivated to do PHP. I'm actually excited to do JavaScript!
+
+**Link(s) to work**: None
