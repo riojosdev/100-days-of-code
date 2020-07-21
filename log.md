@@ -555,3 +555,11 @@ So, after a lot of exploration, I decide to get back into coding, so I figured t
 Later I felt I needed to update some of my strategies. And I came upon Open Web Analytics framework a great alternative to Google Analytics. So I figured to do that too on the side. But it kinda requires a server side dashboard, so now I think I have to build a dashboard on Heroku with a touch of PHP and MySQL. Now I'm getting back on PHP after a long time. I feel kinda unmotivated to do PHP. I'm actually excited to do JavaScript!
 
 **Link(s) to work**: None
+
+### Day 59: Jul 20, 2020
+
+**Today's Progress**: Finished on the ObservableHQ basic tutorial
+
+**Thoughts:** ObservableHQ first step tutorial I have completed. It is kinda cool. We can import cells from other notebooks users have created, that's kinda cool. Plus We can also require libraries from the NPM! I'm like WOW!
+
+**Link(s) to work**: None
