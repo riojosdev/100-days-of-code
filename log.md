@@ -563,3 +563,11 @@ Later I felt I needed to update some of my strategies. And I came upon Open Web 
 **Thoughts:** ObservableHQ first step tutorial I have completed. It is kinda cool. We can import cells from other notebooks users have created, that's kinda cool. Plus We can also require libraries from the NPM! I'm like WOW!
 
 **Link(s) to work**: None
+
+### Day 60: Jul 25, 2020
+
+**Today's Progress**: Building a Blog
+
+**Thoughts:** So today I started to build a website. This time I'm kind of focusing on building a blog. I wanted to do it really fast. But making things responsive is my weakness, I just figured out! I prepared the content like really fast. Made up the structure also. But when I tried adding interactiveness, the things are really ugly. They are not that perfect. Making things responsive is really hard. And moreover, I realized making responsive typography is the most hardest. So I have to stop this blog building for a while and start doing some typography experiments!
+
+**Link(s) to work**: None
