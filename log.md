@@ -571,3 +571,11 @@ Later I felt I needed to update some of my strategies. And I came upon Open Web 
 **Thoughts:** So today I started to build a website. This time I'm kind of focusing on building a blog. I wanted to do it really fast. But making things responsive is my weakness, I just figured out! I prepared the content like really fast. Made up the structure also. But when I tried adding interactiveness, the things are really ugly. They are not that perfect. Making things responsive is really hard. And moreover, I realized making responsive typography is the most hardest. So I have to stop this blog building for a while and start doing some typography experiments!
 
 **Link(s) to work**: None
+
+### Day 61: Jul 26, 2020
+
+**Today's Progress**: Continuing building the blog also deployed as beta version
+
+**Thoughts:** Blog building was kind of fun. I released it on vercel (previously zeit). I'm trying to focus on the structure so that editing it int the future becomes easy task for me. When I deployed it I realized there are a few changes I have to make. It is not broken but I need it to be more perfect for the eyes. Really spark  a mind. Also the real blog part I need to find a way to stylize the article. Right now it looks like my high school notebook.
+
+**Link(s) to work**: [Is Time Well Spent](https://istimewellspent.now.sh)
