@@ -579,3 +579,19 @@ Later I felt I needed to update some of my strategies. And I came upon Open Web 
 **Thoughts:** Blog building was kind of fun. I released it on vercel (previously zeit). I'm trying to focus on the structure so that editing it int the future becomes easy task for me. When I deployed it I realized there are a few changes I have to make. It is not broken but I need it to be more perfect for the eyes. Really spark  a mind. Also the real blog part I need to find a way to stylize the article. Right now it looks like my high school notebook.
 
 **Link(s) to work**: [Is Time Well Spent](https://istimewellspent.now.sh)
+
+### Day 62: Jul 29, 2020
+
+**Today's Progress**: Made a Blog post on Humane Tech
+
+**Thoughts:** I wrote an article on Dev.to on Humane Tech. I did my first post on Humane Tech. And I did this because I decided to choose this as my niche. Long way to go!
+
+**Link(s) to work**: ["How and Why we should understand, improve & appreciate The Humane Technologies!" -Dev.to Blog article](https://dev.to/sreadyila/how-and-why-we-should-understand-improve-appreciate-the-humane-technologies-4bk5)
+
+### Day 63: Jul 30, 2020
+
+**Today's Progress**: Started learning about MongoDB
+
+**Thoughts:** While I was making a new app. I came across a problem. Actually I had to use another technology. It was the database! So I decided to learn MongoDB. I do know how to add basic database functionalities using MySQL. But I wanted to learn another. I didn't want to use MySQL. It was widely used, and I have no knowledge on the NoSQL technologies. So I started learning MongoDB. Just to find how NoSQL is different than MySQL.
+
+**Link(s) to work**: None
