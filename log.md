@@ -595,3 +595,11 @@ Later I felt I needed to update some of my strategies. And I came upon Open Web 
 **Thoughts:** While I was making a new app. I came across a problem. Actually I had to use another technology. It was the database! So I decided to learn MongoDB. I do know how to add basic database functionalities using MySQL. But I wanted to learn another. I didn't want to use MySQL. It was widely used, and I have no knowledge on the NoSQL technologies. So I started learning MongoDB. Just to find how NoSQL is different than MySQL.
 
 **Link(s) to work**: None
+
+### Day 64: Aug 1, 2020
+
+**Today's Progress**: Learning MongoDB
+
+**Thoughts:** My second day in learning MongoDB. I have to say w3schools is the best place to learn. I can't seem to motivate myself on other platforms. I would really love to appreciate the ones who created the tutorial. It is just the basics! And the only one needed to get started really quickly. Just a 3/4 functions left to learn. So, I'm going back to it. I want to build something today! Whoo
+
+**Link(s) to work**: None
