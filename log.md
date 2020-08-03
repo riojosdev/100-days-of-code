@@ -603,3 +603,15 @@ Later I felt I needed to update some of my strategies. And I came upon Open Web 
 **Thoughts:** My second day in learning MongoDB. I have to say w3schools is the best place to learn. I can't seem to motivate myself on other platforms. I would really love to appreciate the ones who created the tutorial. It is just the basics! And the only one needed to get started really quickly. Just a 3/4 functions left to learn. So, I'm going back to it. I want to build something today! Whoo
 
 **Link(s) to work**: None
+
+### Day 65: Aug 2, 2020
+
+**Today's Progress**: Learned MongoDB started building a server with it. HTTP protocol revisited!
+
+**Thoughts:** I learned how to do CRUD operation with MongoDB! Now I had to build a server. When I tried there was something I always skipped. The HTTP protocol. I didn't even know it perfectly. This time HTTP protocol was the only thing that stands in my way. Blocking a lot of the skill and potential. 
+
+I don't know why but HTTP protocol was the only thing I didn't even care to think about. I ask with my heart broken that please let me use the HTTP protocol. And be with me until I can HTTP you so good. I promise my HTTP will be the only one you would ever need.
+
+Okay back to HTTP protocol learning. Let's see what knowledge I can consume.
+
+**Link(s) to work**: None
