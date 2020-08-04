@@ -615,3 +615,12 @@ I don't know why but HTTP protocol was the only thing I didn't even care to thin
 Okay back to HTTP protocol learning. Let's see what knowledge I can consume.
 
 **Link(s) to work**: None
+
+### Day 66: Aug 3, 2020
+
+**Today's Progress**: Learning to create an entire simple website using ExpressJS
+
+**Thoughts:** After I explored the HTTP protocol world <3 <3 <3 . I tried to build the website using NodeJS. But in that "http" module I didn't find a way which I understood on how to handle the incoming POST requests. Which is supposed to be the Database CRUD operations. It was too complicated. So I decided to use ExpressJS and come back later to do the same thing alone on just NodeJS.
+So I started Learning on how to create a perfect website using ExpressJS. And I'm learning on the MDN!
+
+**Link(s) to work**: None
