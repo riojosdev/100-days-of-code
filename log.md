@@ -624,3 +624,13 @@ Okay back to HTTP protocol learning. Let's see what knowledge I can consume.
 So I started Learning on how to create a perfect website using ExpressJS. And I'm learning on the MDN!
 
 **Link(s) to work**: None
+
+### Day 67: Aug 5, 2020
+
+**Today's Progress**: Learned just the basic fundamentals to start using ExpressJS
+
+**Thoughts:** I learned a lot of how NodeJS creates a server and how the client and server communicates with each other. But to implement it in my web-app is more complicated, it is like I'm reinventing the wheel. So ExpressJS is the most easy way to move forward with. And I can say it is a lot easier than just Node.
+Anyway I learned how to make a simple Web server using ExpressJS and also learned different properties which I can use. Now all I need is to do some examples. So I can know how to build an entire Web server.
+Also DEFCON is starting from tomorrow. So I probably would be around that. Let's see what I can pick up!
+
+**Link(s) to work**: None
