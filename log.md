@@ -634,3 +634,11 @@ Anyway I learned how to make a simple Web server using ExpressJS and also learne
 Also DEFCON is starting from tomorrow. So I probably would be around that. Let's see what I can pick up!
 
 **Link(s) to work**: None
+
+### Day 68: Aug 9, 2020
+
+**Today's Progress**: Made DefCon SafeMode Logo as a CSS Illustration
+
+**Thoughts:** I was attending the Defcon SafeMode and I was impressed by it as a whole that I decided to make a CSS illustration as my contribution. Also to network with other CSS fans.
+
+**Link(s) to work**: [DefCon Safe Mode icon CSS illustration](https://codepen.io/sreadyila/pen/NWNqdEv)
