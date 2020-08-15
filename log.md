@@ -642,3 +642,11 @@ Also DEFCON is starting from tomorrow. So I probably would be around that. Let's
 **Thoughts:** I was attending the Defcon SafeMode and I was impressed by it as a whole that I decided to make a CSS illustration as my contribution. Also to network with other CSS fans.
 
 **Link(s) to work**: [DefCon Safe Mode icon CSS illustration](https://codepen.io/sreadyila/pen/NWNqdEv)
+
+### Day 69: Aug 14, 2020
+
+**Today's Progress**: Learning ExpressJS (Database connecting, Skeleton Website, Routers)
+
+**Thoughts:** ExpressJS is really an incredible library. It really helps in speeding up the workflow. I am following up the MDN tutorials on making a local library website. I was planning to learn MongoDB. But I have learned a lot more than MongoDB. Like Mongoose, ExpressJS application generator...
+
+**Link(s) to work**: None
