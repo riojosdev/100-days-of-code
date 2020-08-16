@@ -650,3 +650,13 @@ Also DEFCON is starting from tomorrow. So I probably would be around that. Let's
 **Thoughts:** ExpressJS is really an incredible library. It really helps in speeding up the workflow. I am following up the MDN tutorials on making a local library website. I was planning to learn MongoDB. But I have learned a lot more than MongoDB. Like Mongoose, ExpressJS application generator...
 
 **Link(s) to work**: None
+
+### Day 70: Aug 15, 2020
+
+**Today's Progress**: Learning ExpressJS (Displaying data using views)
+
+**Thoughts:** Looks like I'm working on a MVC structured app. And since this is my first I feel like Views are the hardest. It also might be because I just started on Views. Also I am using the Pug view template engine. So it means I'm kind of starting over. Anyway, I do love a challenge. And I'm learning more tools at the same time. 
+
+Can't touch this!
+
+**Link(s) to work**: None
