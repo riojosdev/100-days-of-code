@@ -660,3 +660,19 @@ Also DEFCON is starting from tomorrow. So I probably would be around that. Let's
 Can't touch this!
 
 **Link(s) to work**: None
+
+### Day 71: Aug 16, 2020
+
+**Today's Progress**: Learning ExpressJS (Displaying data using views)
+
+**Thoughts:** Okay the views are not that hard. It was pretty simple. I just need to learn the file structure better.
+
+**Link(s) to work**: None
+
+### Day 72: Aug 17, 2020
+
+**Today's Progress**: Learning ExpressJS (Forms)
+
+**Thoughts:** I started on form, and dispplaying form is not that a hard task. But the validation and sanitation. I always was stuck at the validation part. I kind of hate it. But I think it's because I think it is widely used by REGEX. And everyone hates REGEX. But this could be my challenge. I could beat most Noobs!
+
+**Link(s) to work**: None
