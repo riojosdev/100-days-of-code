@@ -673,6 +673,14 @@ Can't touch this!
 
 **Today's Progress**: Learning ExpressJS (Forms)
 
-**Thoughts:** I started on form, and dispplaying form is not that a hard task. But the validation and sanitation. I always was stuck at the validation part. I kind of hate it. But I think it's because I think it is widely used by REGEX. And everyone hates REGEX. But this could be my challenge. I could beat most Noobs!
+**Thoughts:** I started on form, and displaying form is not that a hard task. But the validation and sanitation. I always was stuck at the validation part. I kind of hate it. But I think it's because I think it is widely used by REGEX. And everyone hates REGEX. But this could be my challenge. I could beat most Noobs!
+
+**Link(s) to work**: None
+
+### Day 73: Aug 18, 2020
+
+**Today's Progress**: Learning ExpressJS (Delete, Create Forms)
+
+**Thoughts:** I learned about displaying the create and delete form. And how to make it do those create and delete operations. It's a bit hard task. A little complicated. I think it's because of the spreaded out structure. By the express application generator. I am a bit confused. I guess I need to get comfortable to this specific format. And it's okay to lock myself to this data format. As this is a language I hope to keep using for a long time. MERN stack!!!
 
 **Link(s) to work**: None
