@@ -684,3 +684,12 @@ Can't touch this!
 **Thoughts:** I learned about displaying the create and delete form. And how to make it do those create and delete operations. It's a bit hard task. A little complicated. I think it's because of the spreaded out structure. By the express application generator. I am a bit confused. I guess I need to get comfortable to this specific format. And it's okay to lock myself to this data format. As this is a language I hope to keep using for a long time. MERN stack!!!
 
 **Link(s) to work**: None
+
+### Day 74: Aug 21, 2020
+
+**Today's Progress**: Finished MDN ExpressJS Mongoose Tutorial
+
+**Thoughts:** Building a NoSQL database using Mongoose with ExpressJS. I really liked that they did show an entire working example. Almost close to real world app. I learned a lot on how to make a database connection. Setting routes in ExpressJS. Creating an ExpressJS skeleton with Express Application generator. Creating views on Express using the Pug Template engine. CRUD operations on database and using a MVC to do the specific CRUD operations. Using Express middleware like Validator to validate and sanitize the data. Also using Moment middleware to format the date and time. Building forms to give client the ability to do CRUD operations. 
+Overall, I had a great time learning a lot. I took a giant leap with the help of MDN Web Docs. Thank You MDN <3
+
+**Link(s) to work**: None
