@@ -693,3 +693,11 @@ Can't touch this!
 Overall, I had a great time learning a lot. I took a giant leap with the help of MDN Web Docs. Thank You MDN <3
 
 **Link(s) to work**: None
+
+### Day 75: Aug 23, 2020
+
+**Today's Progress**: Made a Contact Saver Database website using ExpressJS and Mongoose
+
+**Thoughts:** Build a contact saver database website using ExpressJS and a MongoDB database. I am experimenting with the technologies I learned from the MDN web docs. I plan to be a expert in this stack. Right now I know MEN in the MERN or MEVN stack. 
+
+**Link(s) to work**: None
