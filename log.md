@@ -701,3 +701,11 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 **Thoughts:** Build a contact saver database website using ExpressJS and a MongoDB database. I am experimenting with the technologies I learned from the MDN web docs. I plan to be a expert in this stack. Right now I know MEN in the MERN or MEVN stack. 
 
 **Link(s) to work**: None
+
+### Day 76: Aug 29, 2020
+
+**Today's Progress**: Started learning Emacs
+
+**Thoughts:** I stumbledupon Emacs and I am really impressed by all the cool features it has. Moreover it is GPL licensed. Free software where I can copy, modify and even learn all the inner workings. Also there was an ability to add IRC chat. Which makes it even more intresting. And it's everything in one window. I don't even need to switch windows. My workflow gets really smooth and I will save a lot of time. There is also an RSS feed. Also a browser. Not sure how it works. Images won't appear I guess, not sure. I even imagined myself writing a blog on it. Which I can save it with git and make it available anywhere. I wish I known this a long time before. Also I installed spacemacs which is a modern Emacs. But I need to get comfortable with Emacs before I could go to Spacemacs.
+
+**Link(s) to work**: None
