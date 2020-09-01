@@ -717,3 +717,11 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 **Thoughts:** Currently I am going through on how to navigate Emacs edit text and files. Make emacs for suitable for daily use. But there are a lot of stuff I need to do. I am confused on what I'll choose first.
 
 **Link(s) to work**: None
+
+### Day 78: Aug 31, 2020
+
+**Today's Progress**: Learning Emacs
+
+**Thoughts:** I have been dicovering a lot of ways, I can use Emacs. I found the Awesome-list for emacs. Which helped me to reach a really big step. I am now actually trying to install IRC, twitter mode and maybe some other packages I found that was really useful.
+
+**Link(s) to work**: None
