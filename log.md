@@ -725,3 +725,11 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 **Thoughts:** I have been dicovering a lot of ways, I can use Emacs. I found the Awesome-list for emacs. Which helped me to reach a really big step. I am now actually trying to install IRC, twitter mode and maybe some other packages I found that was really useful.
 
 **Link(s) to work**: None
+
+### Day 79: Sep 07, 2020
+
+**Today's Progress**: Learning Solidity
+
+**Thoughts:** Learning emacs was oretty cool, but it was just too cool that I couldn't learn some Code. Today I decided to pick up some knowledge on blockchain technology. I discovered Solidity. And I am preparing a game on it. Actually it's a Zombie Crypto game.
+
+**Link(s) to work**: None
