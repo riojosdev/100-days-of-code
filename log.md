@@ -726,10 +726,18 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 
 **Link(s) to work**: None
 
-### Day 79: Sep 07, 2020
+### Day 79: Sep 06, 2020
 
 **Today's Progress**: Learning Solidity
 
-**Thoughts:** Learning emacs was oretty cool, but it was just too cool that I couldn't learn some Code. Today I decided to pick up some knowledge on blockchain technology. I discovered Solidity. And I am preparing a game on it. Actually it's a Zombie Crypto game.
+**Thoughts:** Learning emacs was pretty cool, but it was just too cool that I couldn't learn some Code. Today I decided to pick up some knowledge on blockchain technology. I discovered Solidity. And I am preparing a game on it. Actually it's a Zombie Crypto game.
+
+**Link(s) to work**: None
+
+### Day 80: Sep 07, 2020
+
+**Today's Progress**: Learning Solidity
+
+**Thoughts:** Blockchain is a program that has a lot of rules, than regular program. I don't even understand why some rules are there. For example there is hashing. It is probably for security but security, is it really secure. Atleast to a point, maybe. Blockchain for me right now is a technology that makes all the previous apps obsolete. It is made to revolutionize. Only application that I can think of are revolutionary. I think this is Web 3.0
 
 **Link(s) to work**: None
