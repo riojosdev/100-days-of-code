@@ -741,3 +741,11 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 **Thoughts:** Blockchain is a program that has a lot of rules, than regular program. I don't even understand why some rules are there. For example there is hashing. It is probably for security but security, is it really secure. Atleast to a point, maybe. Blockchain for me right now is a technology that makes all the previous apps obsolete. It is made to revolutionize. Only application that I can think of are revolutionary. I think this is Web 3.0
 
 **Link(s) to work**: None
+
+### Day 81: Sep 17, 2020
+
+**Today's Progress**: Learning Solidity
+
+**Thoughts:** After a long break I again started to learn code. I went to eliminate stress, but got lost along the way. Now I'm back for more code. So I revisited blockchain gaming which is CryptoZombie game. The solidity tutorial. This time I learned about different visibility of functions and variables on the blockchain. How I can inherit contracts, import contracts. While I was coding I lost what I was working on. My brain couldn't understand what I was really coding right now. I tried to understand why this happens. I figured becuase this was a different app, to be used. Not like the normal ones. This was Decentralized!
+
+**Link(s) to work**: None
