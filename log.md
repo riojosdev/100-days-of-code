@@ -749,3 +749,13 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 **Thoughts:** After a long break I again started to learn code. I went to eliminate stress, but got lost along the way. Now I'm back for more code. So I revisited blockchain gaming which is CryptoZombie game. The solidity tutorial. This time I learned about different visibility of functions and variables on the blockchain. How I can inherit contracts, import contracts. While I was coding I lost what I was working on. My brain couldn't understand what I was really coding right now. I tried to understand why this happens. I figured becuase this was a different app, to be used. Not like the normal ones. This was Decentralized!
 
 **Link(s) to work**: None
+
+### Day 82: Sep 27, 2020
+
+**Today's Progress**: Making a new CSS Illustration
+
+**Thoughts:** I lost my focus on coding for the past few days. I was trying to be with nature. Enjoying every moment of life. But time to get back on coding, and I figured CSS illustrations was the best way to improve my focus. So I am making one to "get back at coding and stop procastinating". I think I just said Enjoying life is Procastinating. HaHa
+
+The CSS illustration will be completed tommorow, little more to go...
+
+**Link(s) to work**: None
