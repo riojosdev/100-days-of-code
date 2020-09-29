@@ -759,3 +759,11 @@ Overall, I had a great time learning a lot. I took a giant leap with the help of
 The CSS illustration will be completed tommorow, little more to go...
 
 **Link(s) to work**: None
+
+### Day 83: Sep 28, 2020
+
+**Today's Progress**: A new CSS Illustration
+
+**Thoughts:** Completed the last few touches on the css illustration. Uploaded it to Codepen. And bragged about it on social media. The description part ws something new I did. Just a short storytelling. I wonder who is listening.
+
+**Link(s) to work**: [Micheal Jackson Thriller Costume](https://codepen.io/sreadyila/full/bGpJWrd)
