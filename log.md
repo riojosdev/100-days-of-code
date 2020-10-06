@@ -767,3 +767,11 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** Completed the last few touches on the css illustration. Uploaded it to Codepen. And bragged about it on social media. The description part ws something new I did. Just a short storytelling. I wonder who is listening.
 
 **Link(s) to work**: [Micheal Jackson Thriller Costume](https://codepen.io/sreadyila/full/bGpJWrd)
+
+### Day 84: Oct 06, 2020
+
+**Today's Progress**: Learning Scroll Animation
+
+**Thoughts:** I stumbled upon a design called scrollyTelling. And that design was really cool, and different and I feel like it could be my thing. So I started doing a bit of tutorial on scrolling and animation so that I can design one!
+
+**Link(s) to work**: None
