@@ -775,3 +775,11 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** I stumbled upon a design called scrollyTelling. And that design was really cool, and different and I feel like it could be my thing. So I started doing a bit of tutorial on scrolling and animation so that I can design one!
 
 **Link(s) to work**: None
+
+### Day 85: Oct 16, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** I started building a scheduler for scheduling!
+
+**Link(s) to work**: None
