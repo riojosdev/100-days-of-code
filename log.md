@@ -776,10 +776,18 @@ The CSS illustration will be completed tommorow, little more to go...
 
 **Link(s) to work**: None
 
-### Day 85: Oct 16, 2020
+### Day 85: Oct 15, 2020
 
 **Today's Progress**: Building a scheduler using node, mongoose and express
 
 **Thoughts:** I started building a scheduler for scheduling!
+
+**Link(s) to work**: None
+
+### Day 86: Oct 16, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** Still building the app. I have come across the dreadfull error 404. I still have no idea, what am I missing. I decided to complete the database connection to see more clearly. I can ask on stackoverflow, maybe I'll do that. I haven't asked a doubt of the express generator, I hope I don't complicate the forum, much.
 
 **Link(s) to work**: None
