@@ -791,3 +791,11 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** Still building the app. I have come across the dreadfull error 404. I still have no idea, what am I missing. I decided to complete the database connection to see more clearly. I can ask on stackoverflow, maybe I'll do that. I haven't asked a doubt of the express generator, I hope I don't complicate the forum, much.
 
 **Link(s) to work**: None
+
+### Day 87: Oct 17, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** Found the bug from yesterday, it was me calling the old address of the index instead of the redirected one. Completely forgot, actually the redirected one and the old one had the same name, so. I'm the only one to blame! Today I started connecting it to the database. Builded the form and everything but now it is not connecting to the databse. Something to do with the push and pull of data to the database I guess. Have to check it.
+
+**Link(s) to work**: None
