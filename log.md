@@ -799,3 +799,11 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** Found the bug from yesterday, it was me calling the old address of the index instead of the redirected one. Completely forgot, actually the redirected one and the old one had the same name, so. I'm the only one to blame! Today I started connecting it to the database. Builded the form and everything but now it is not connecting to the databse. Something to do with the push and pull of data to the database I guess. Have to check it.
 
 **Link(s) to work**: None
+
+### Day 88: Oct 18, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** The last bug from yesterday was me screwing up with the old bugs. Now I built the rest of the site. Now I want to make a cool calendar UI/UX and for that I can't use Pug template actually Pug makes me too stressed to think about how it all connects. Maybe it's because I am not using a color coded text editor for Pug. I might find one, but I want to learn Vue.js, so Today I am going to build a todo list using vue.js, I found a tutorial on MDN. So I'll be following that.
+
+**Link(s) to work**: None
