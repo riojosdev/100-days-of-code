@@ -807,3 +807,11 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** The last bug from yesterday was me screwing up with the old bugs. Now I built the rest of the site. Now I want to make a cool calendar UI/UX and for that I can't use Pug template actually Pug makes me too stressed to think about how it all connects. Maybe it's because I am not using a color coded text editor for Pug. I might find one, but I want to learn Vue.js, so Today I am going to build a todo list using vue.js, I found a tutorial on MDN. So I'll be following that.
 
 **Link(s) to work**: None
+
+### Day 89: Oct 21, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** Started learning Vue.js for the front end of the scheduler. Right now I am learning to build a todo list website using Vue. The tutorial is not that smooth. I thought Vue was easier to learn. Might be beacuse I'm just starting now. Let's see!
+
+**Link(s) to work**: None
