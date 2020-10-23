@@ -815,3 +815,11 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** Started learning Vue.js for the front end of the scheduler. Right now I am learning to build a todo list website using Vue. The tutorial is not that smooth. I thought Vue was easier to learn. Might be beacuse I'm just starting now. Let's see!
 
 **Link(s) to work**: None
+
+### Day 90: Oct 22, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** Working on the ToDo app using vue, built a checklist. Going over to learn about creating a checklist dynamically using forms.
+
+**Link(s) to work**: None
