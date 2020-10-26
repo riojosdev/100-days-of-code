@@ -823,3 +823,19 @@ The CSS illustration will be completed tommorow, little more to go...
 **Thoughts:** Working on the ToDo app using vue, built a checklist. Going over to learn about creating a checklist dynamically using forms.
 
 **Link(s) to work**: None
+
+### Day 91: Oct 24, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** Learning how to style the form with css
+
+**Link(s) to work**: None
+
+### Day 92: Oct 25, 2020
+
+**Today's Progress**: Building a scheduler using node, mongoose and express
+
+**Thoughts:** So when clicking the edit button, the focus ref is lost due to the edit button is only rendered until and only when the editing is set to true. After it is finished the ref is lost. ( I D R K ! ). So a function called nextTick was added. It seems pretty intresting, I need to check up on it later.
+
+**Link(s) to work**: None
