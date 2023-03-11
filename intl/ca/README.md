@@ -8,12 +8,12 @@
 * [Recursos](resources.md)
 
 ## Translations
-[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md)
+[বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
 ## Si has decidit unir-te al repte:
 
 0.  Visita [el lloc oficial](http://100daysofcode.com/) del moviment #100DaysOfCode. Connecta amb altres a la plataforma que escullis d'aquesta llista: www.100DaysOfCode.com/connect
-    o, [aquí](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE) tens el link per la invitació al canal 100DaysOfCode de Slack.
+    o, [aquí](https://www.100daysofcode.com/slack) tens el link per la invitació al canal 100DaysOfCode de Slack.
 1.  Llegeix [Unir-te a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Bifurca (fork) aquest repositori i afegeix el teu progrés diari al fitxer [Log](log.md) o a la versió ràpida [R1 Log](r1-log.md) (R1 es refereix a Round 1). [Exemple](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programa com a mínim una hora cada dia durant els pròxims 100 dies.**

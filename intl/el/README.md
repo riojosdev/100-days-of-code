@@ -8,14 +8,14 @@
 * [Πόροι](resources-el.md)
 
 ## Μεταφράσεις
-[español](/intl/es/README.md) – [français](/intl/fr/FAQ-fr.md) – [polski](/intl/pl/README.md) - [русский](/intl/ru/README-ru.md) - [português do Brasil](/intl/pt-br/LEIAME.md) – [deutsch](/intl/de/README.md) – [українська](/intl/ua/README-ua.md) – [한국어](/intl/ko/README-ko.md) – [中文](/intl/ch/README.md) - [ελληνικά](/intl/el/README.md)
+[español](/intl/es/README.md) – [français](/intl/fr/FAQ-fr.md) – [polski](/intl/pl/README.md) - [русский](/intl/ru/README-ru.md) - [português do Brasil](/intl/pt-br/LEIAME.md) – [deutsch](/intl/de/README.md) – [українська](/intl/ua/README-ua.md) – [한국어](/intl/ko/README-ko.md) – [中文](/intl/ch/README.md) - [ελληνικά](/intl/el/README.md) - [srpski](intl/sr/README-sr.md) – [nederlands](intl/nl/README.md)
 
 Αν θέλεις να βοηθήσεις προσφέροντας μια μετάφραση του περιεχομένου/των κανόνων σε κάποια γλώσσα που ξέρεις, κάνε ένα pull request (ή στείλε μου ένα προσωπικό μήνυμα στο Twitter @ka11away), προσθέτοντας έναν υπό-φάκελο στον φάκελο « intl » με τα αρχεία που μετέφρασες.
 
 ## Αν αποφάσισες να συμμετάσχεις:
 
 0.  Δες την [επίσημη ιστοσελίδα](http://100daysofcode.com/) για το κίνημα #100ΗμέρεςΚώδικα. Συνδέσου με άλλους ανθρώπους στην πλατφόρμα της επιλογής σου από αυτή τη λίστα: www.100DaysOfCode.com/connect
-    Επίσης, [εδώ](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE) μπορείς να βρεις ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode
+    Επίσης, [εδώ](https://www.100daysofcode.com/slack) μπορείς να βρεις ένα σύνδεσμο-πρόσκληση για το κανάλι Slack του 100DaysOfCode
 1.  Διάβασε το [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Κάνε fork αυτό το repo και κάνε commit στο [Ημερολόγιο](log-el.md) ή στο Εναλλακτικό, γρήγορο [R1 Ημερολόγιο](r1-log-el.md) (R1 σημαίνει Round 1, δηλαδή Γύρος 1) καθημερινά. [Παράδειγμα](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Προγραμμάτισε για τουλάχιστον μία ώρα για τις επόμενες 100 ημέρες.**

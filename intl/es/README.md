@@ -8,11 +8,11 @@
 * [Recursos](recursos.md)
 
 ## Translations
-[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+[বাংলা](../bn/README.md) - [中文](../ch/README.md) - [deutsch](../de/README.md) - [español](README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
 ## Si ha decidido unirse:
 
-0.  Mire [el sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrar [aquí](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE) un enlace de invitación al canal de Slack.
+0.  Mire [el sitio Oficial](http://100daysofcode.com/) para el movimiento #100DaysOfCode. Conecte con otra gente en la plataforma que elija de esta lista: www.100DaysOfCode.com/connect. Puede encontrar [aquí](https://www.100daysofcode.com/slack) un enlace de invitación al canal de Slack.
 1.  Lea [Unirse a #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Bifúrquese (fork) este repositorio y añada al [diario](diario.md) o al diario rápido [R1 diario](r1-diario.md) (R1 significa ronda 1). [Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
 1.  **Programe por un mínimo de una hora por día durante los próximos 100 días.**

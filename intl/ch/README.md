@@ -8,12 +8,12 @@
 * [资源](resources.md)
 
 ## Translations
-[বাংলা](../bn/README.md) - [中文](README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md)
+[বাংলা](../bn/README.md) - [中文](README.md) - [deutsch](../de/README.md) - [español](../es/README.md) – [français](../fr/FAQ-fr.md) – [日本語](../ja/README.md) - [한국어](../ko/README-ko.md) – [nederlands](../nl/README.md) – [norsk](../no/README.md) –  [polski](../pl/README.md) - [português do Brasil](../pt-br/LEIAME.md) - [русский](../ru/README-ru.md) – [українська](../ua/README-ua.md) - [srpski](intl/sr/README-sr.md)
 
 ## 如果你已经决定要加入：
 
 0.  查看 #100DaysOfCode 运动的[官方网站](http://100daysofcode.com/)。与其他人在这些平台上建立联系：www.100DaysOfCode.com/connect
-    除此之外，这是 100DaysOfCode Slack channel的邀请[链接](https://100xcode.slack.com/join/shared_invite/enQtOTE0NjE3Nzc3ODg4LTY0NDliODc5YWYyODc1OWVmNTllYWRhMDZmMTQwMmI3MTY0N2UxYWQwYjRiMjEzZTI0ZTIzYTdkNWY4MWM5MzE)。
+    除此之外，这是 100DaysOfCode Slack channel的邀请[链接](https://www.100daysofcode.com/slack)。
 1.  阅读 [加入 #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 1.  Fork这个repo并且每天更新[日志](log.md)，或者[R1日志](r1-log.md) （R1是round 1，即第一轮）。[例子](https://github.com/Kallaway/100-days-kallaway-log)。
 1.  **在之后的100天，每天至少写一个小时的代码。**
